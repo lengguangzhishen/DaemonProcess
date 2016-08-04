@@ -1,2 +1,2 @@
 # DaemonProcess
-a daemon process demo
+a daemon process demo of jni
